@@ -15,7 +15,7 @@ namespace YP_PROBA
             int x, b, result;
 
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("=======================================");
+            Console.WriteLine("=======================================1");
             Console.WriteLine("Введите число x: ");
             x = int.Parse(Console.ReadLine());
 
