@@ -1,0 +1,7 @@
+C:\Users\Сергей\Desktop\simple_singleton\obj\Debug\simple_singleton.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\simple_singleton\obj\Debug\simple_singleton.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\simple_singleton\bin\Debug\simple_singleton.exe.config
+C:\Users\Сергей\Desktop\simple_singleton\bin\Debug\simple_singleton.exe
+C:\Users\Сергей\Desktop\simple_singleton\bin\Debug\simple_singleton.pdb
+C:\Users\Сергей\Desktop\simple_singleton\obj\Debug\simple_singleton.exe
+C:\Users\Сергей\Desktop\simple_singleton\obj\Debug\simple_singleton.pdb
